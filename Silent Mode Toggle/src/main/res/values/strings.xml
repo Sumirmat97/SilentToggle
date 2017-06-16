@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Silent Mode Toggle</string>
+    <string name="app_name">Silent</string>
     <string name="action_settings">Settings</string>
     <string name="toggle_silent_mode">Toggle Silent Mode</string>
 </resources>
